@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS and React Native**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** and **React Native**
 
 - 📫 How to reach me **atakanberkyilmazz@gmail.com**
 
