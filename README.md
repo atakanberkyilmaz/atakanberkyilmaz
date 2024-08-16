@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atakanberkyilmaz&label=Profile%20views&color=0e75b6&style=flat" alt="atakanberkyilmaz" /> </p>
 
-- 🌱 I’m currently learning **React JS and React Native**
+- 🌱 I’m currently learning **React JS, Next JS and React Native**
 
 - 💬 Ask me about **Flutter** and **React Native**
 
